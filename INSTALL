@@ -1,0 +1,9 @@
+Building TINYCOIN
+
+See doc/readme-qt.rst for instructions on building TINYCOIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TINYCOIN.
+
+See doc/build-*.txt for instructions on building tinycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TINYCOIN.
